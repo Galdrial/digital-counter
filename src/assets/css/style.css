@@ -28,7 +28,7 @@ body {
   align-items: center;
   overscroll-behavior: none;
   overflow-y: auto;
-  background-image: url(src/assets/img/background.jpg);
+  background-image: url(/src/assets/img/background.jpg);
   background-size: cover;
   background-position: top;
 }
