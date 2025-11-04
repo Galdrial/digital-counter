@@ -73,7 +73,7 @@ const buttons = [
 buttons.forEach( ( { text, action } ) => {
 	const btn = document.createElement( 'button' );
 	btn.innerHTML = text;
-	btn.className = 'btn btn-primary';
+	btn.className = 'btn btn-dark';
 
 	let timeoutId, intervalId;
 
