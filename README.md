@@ -2,8 +2,7 @@
 
 An advanced, responsive digital counter web application built with modern JavaScript, Bootstrap 5, and custom CSS styling.
 
-![Digital Counter Preview](assets/img/preview.png)
-
+![Digital Counter Preview](https://galdrial.github.io/digital-counter/src/assets/img/og-image.png)
 ## ✨ Features
 
 - **Interactive Digital Display** - 6-digit LED-style counter with red glow effect
@@ -17,15 +16,9 @@ An advanced, responsive digital counter web application built with modern JavaSc
 
 ## 🚀 Demo
 
-[Live Demo](https://your-username.github.io/digital-counter) *(Replace with your GitHub Pages URL)*
+[Live Demo](https://galdrial.github.io/digital-counter) *(Replace with your GitHub Pages URL)*
 
 ## 📱 Screenshots
-
-### Desktop View
-![Desktop Screenshot](assets/img/desktop-view.png)
-
-### Mobile View
-![Mobile Screenshot](assets/img/mobile-view.png)
 
 ## 🛠️ Technologies Used
 
@@ -41,7 +34,6 @@ An advanced, responsive digital counter web application built with modern JavaSc
 ```
 digital-counter/
 ├── src/
-│   ├── index.html          # Main HTML file
 │   ├── assets/
 │   │   ├── css/
 │   │   │   └── style.css   # Custom styles and responsive design
@@ -50,6 +42,7 @@ digital-counter/
 │   │   ├── img/            # Images and screenshots
 │   │   └── fonts/          # Custom font files
 │   └── ...
+├── index.html          # Main HTML file
 ├── README.md
 └── .gitignore
 ```
@@ -161,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Simone**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@galdrial](https://github.com/galdrial)
 - Email: your.email@example.com
 
 ## 🙏 Acknowledgments
@@ -182,6 +175,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ If you found this project helpful, please give it a star!
 
-🐛 Found a bug? [Report it here](https://github.com/your-username/digital-counter/issues)
+🐛 Found a bug? [Report it here](https://github.com/galdrial/digital-counter/issues)
 
-💡 Have a feature request? [Let us know!](https://github.com/your-username/digital-counter/issues)
+💡 Have a feature request? [Let us know!](https://github.com/galdrial/digital-counter/issues)
