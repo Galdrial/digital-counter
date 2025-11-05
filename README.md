@@ -16,9 +16,7 @@ An advanced, responsive digital counter web application built with modern JavaSc
 
 ## 🚀 Demo
 
-[Live Demo](https://galdrial.github.io/digital-counter) *(Replace with your GitHub Pages URL)*
-
-## 📱 Screenshots
+[Live Demo](https://galdrial.github.io/digital-counter)
 
 ## 🛠️ Technologies Used
 
@@ -78,14 +76,14 @@ cd digital-counter
 # Start a local server (Python example)
 python -m http.server 8000
 
-# Open browser to http://localhost:8000/src
+# Open browser to http://localhost:8000/
 ```
 
 ### Option 3: GitHub Pages Deployment
 1. Fork this repository
 2. Go to repository Settings → Pages
 3. Select source branch (main/master)
-4. Your app will be available at `https://your-username.github.io/digital-counter`
+4. Your app will be available at `https://galdrial.github.io/digital-counter`
 
 ## 📋 Browser Compatibility
 
@@ -98,7 +96,7 @@ python -m http.server 8000
 ## 🎨 Customization
 
 ### Colors
-Edit the CSS variables in `assets/css/style.css`:
+Edit the CSS variables in `src/assets/css/style.css`:
 ```css
 /* Digital display color */
 .number {
@@ -116,8 +114,8 @@ Edit the CSS variables in `assets/css/style.css`:
 Replace the DSEG7Classic font by updating the `@font-face` declaration:
 ```css
 @font-face {
-  font-family: 'simo';
-  src: url(/assets/fonts/your-font.woff2) format('woff2');
+  font-family: '7segment';
+  src: url(/src/assets/fonts/your-font.woff2) format('woff2');
 }
 ```
 
@@ -155,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Simone**
 - GitHub: [@galdrial](https://github.com/galdrial)
-- Email: your.email@example.com
+- Email: camerano.simo@gmail.com
 
 ## 🙏 Acknowledgments
 
